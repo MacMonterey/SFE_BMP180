@@ -71,3 +71,4 @@ Linux 32位：https://downloads.arduino.cc/arduino-1.8.16-linux32.tar.xz
 Linux 32位M1芯片：https://downloads.arduino.cc/arduino-1.8.16-linuxarm.tar.xz
 Windows zip file：https://downloads.arduino.cc/arduino-1.8.16-windows.zip
 不用付钱直接下载即可
+Arduino 1.9 beta：https://www.arduino.cc/en/Main/OldSoftwareReleases#1.9.x
