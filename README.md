@@ -1,4 +1,4 @@
-# SFE_BMP180
+# LS_BMP180
 
                     BMP180气压传感器
 BMP180主要特点
@@ -58,3 +58,16 @@ GND–GND
 A5—SCL
 A4—SDA
 2.然后UNO通过usb与PC电脑连接
+3.运行上面的代码
+
+驱动及软件下载：
+1：安装CH34X串口驱动
+2：安装Arduino IDE软件：
+Windows版：https://downloads.arduino.cc/arduino-1.8.16-windows.exe
+Mac版：https://downloads.arduino.cc/arduino-1.8.16-macosx.zip
+Linux 64位：https://downloads.arduino.cc/arduino-1.8.16-linux64.tar.xz
+Linux 64位M1芯片：https://downloads.arduino.cc/arduino-1.8.16-linuxaarch64.tar.xz
+Linux 32位：https://downloads.arduino.cc/arduino-1.8.16-linux32.tar.xz
+Linux 32位M1芯片：https://downloads.arduino.cc/arduino-1.8.16-linuxarm.tar.xz
+Windows zip file：https://downloads.arduino.cc/arduino-1.8.16-windows.zip
+不用付钱直接下载即可
