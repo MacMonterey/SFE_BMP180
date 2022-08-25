@@ -52,23 +52,23 @@ GPS精准导航（航位推算，上下桥检测等）
 体育设备，如高度剖面
 BMP180气压模块是一款高精度、小体积、低能耗的压力传感器，可以应用在移动设备中，它的性能卓越，绝对精度最低可以达到0.03hPa，并且耗电极低，只有3μA。BMP180采用强大的8-pin陶瓷无引线芯片承载（LCC）超薄封装，可以通过I2C总线直接与各种微处理器相连。
 模块接线方式
-1.先连接芯片与单片机（通过I2C接口），按照如下方式连接
+1.先连接晶片与单片机（通过I2C接口），按照如下方式连接
 5V—VIN
 GND–GND
 A5—SCL
 A4—SDA
 2.然后UNO通过usb与PC电脑连接
-3.运行上面的代码
+3.运行上面的程式码
 
-驱动及软件下载：
+驱动及软体下载：
 1：安装CH34X串口驱动
-2：安装Arduino IDE软件：
+2：安装Arduino IDE软体：
 Windows版：https://downloads.arduino.cc/arduino-1.8.16-windows.exe
 Mac版：https://downloads.arduino.cc/arduino-1.8.16-macosx.zip
 Linux 64位：https://downloads.arduino.cc/arduino-1.8.16-linux64.tar.xz
-Linux 64位M1芯片：https://downloads.arduino.cc/arduino-1.8.16-linuxaarch64.tar.xz
+Linux 64位M1晶片：https://downloads.arduino.cc/arduino-1.8.16-linuxaarch64.tar.xz
 Linux 32位：https://downloads.arduino.cc/arduino-1.8.16-linux32.tar.xz
-Linux 32位M1芯片：https://downloads.arduino.cc/arduino-1.8.16-linuxarm.tar.xz
+Linux 32位M1晶片：https://downloads.arduino.cc/arduino-1.8.16-linuxarm.tar.xz
 Windows zip file：https://downloads.arduino.cc/arduino-1.8.16-windows.zip
-不用付钱直接下载即可
+不用付费直接下载即可
 Arduino 1.9 beta：https://www.arduino.cc/en/Main/OldSoftwareReleases#1.9.x
